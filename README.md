@@ -19,5 +19,4 @@ This web app allows users to start, pause, and reset the timer — ideal for bas
 - JavaScript
 
   ![Screenshot 2025-05-10 170221](https://github.com/user-attachments/assets/b2f9adf3-1d7e-46ff-97df-a70326542ae1)
-  or
-![Screenshot 2025-05-10 170221](https://github.com/user-attachments/assets/27111ecf-3b95-4049-9490-d67f457841ac)
+  
